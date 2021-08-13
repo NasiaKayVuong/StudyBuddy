@@ -1,3 +1,4 @@
 {
-    "mongoURI": "mongodb+srv://nasia1:Bambert101!@studybuddy.fgshg.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+    "mongoURI": "mongodb+srv://nasia1:Bambert101!@studybuddy.fgshg.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "jwtSecret": "studybuddysecrettoken"
 }
