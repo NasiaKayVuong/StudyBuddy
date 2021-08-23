@@ -1,6 +1,0 @@
-{
-    "mongoURI": "mongodb+srv://nasia1:Bambert101!@studybuddy.fgshg.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
-    "jwtSecret": "studybuddysecrettoken",
-    "githubClientId": "b5cf7457ad4c56e3a7de",
-    "githubSecret": "b853f385e85bcca4c8343a2bfb5d1f19e21b75fb"
-}
